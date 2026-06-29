@@ -14,7 +14,7 @@
 
 ### 下载程序
 
-普通用户直接到 Releases 下载最新版 `奇想盒更新器.exe`：
+普通用户直接到 Releases 下载最新版 `Qixiang_Update.exe`：
 
 <https://github.com/qqqhx0603-crypto/Qixiang_Update/releases/latest>
 
