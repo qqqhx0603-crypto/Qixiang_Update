@@ -1,0 +1,21 @@
+# Runtime scratch files
+/_tmp_*/
+/_backup_*/
+/.open_source_backup_*/
+/.qixiang_update_*.ps1
+
+# Local project memory, not part of the public tool
+/memory/
+
+# Build intermediates
+/build/.generated/
+
+# Downloaded upstream artifacts
+*.whl
+*.zip
+whimbox_app-setup-*.exe
+
+# Logs and local editor files
+*.log
+.DS_Store
+Thumbs.db
